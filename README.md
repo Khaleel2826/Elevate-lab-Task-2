@@ -26,4 +26,4 @@ I now understand how phishing emails are crafted and how to analyze them using t
 
 ##  Submission 
 - Sample email (text): Phising_email.txt
-- Report: Phising_email_Report.pdf
+- Report: Phishing_Email_Analysis _Report.pdf
